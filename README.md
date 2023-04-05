@@ -7,7 +7,5 @@ IWAIGAMESは、UDP通信を利用した1対1のミニゲーム集(4種類)です
 
 ## 2. ゲーム紹介
 ### 1. IWAI VS IWAI
-
-![IWAI VS IWAI](md_images/IWAI_VS_IWAI.png)
-<img src="md_images/IWAI_VS_IWAI.png" alt="IWAI VS IWAI" width="300">
+<img src="md_images/IWAI_VS_IWAI.png" alt="IWAI VS IWAI" width="500">
 
