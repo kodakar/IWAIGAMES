@@ -32,5 +32,6 @@ IWAIGAMESは、UDP通信を利用した1対1のミニゲーム集(4種類)です
 <img src="md_images/title.png" alt="title" width="500">
 <p>タイトル画面をクリックすると、他のプレイヤーを待つための待機画面へと遷移します。</p>
 <img src="md_images/waiting.png" alt="waiting" width="500">
-<p>プレイヤーが揃うとゲーム選択画面へ遷移し、上下左右キーでゲームを選び、エンターキーで選択することができます。ゲームが終了した場合この画面に戻ってきます。</p>
+<p>プレイヤーが揃うとゲーム選択画面へ遷移します。</p>
 <img src="md_images/selecting.png" alt="selecting" width="500">
+<p>上下左右キーでゲームを選び、エンターキーでゲームを選択することができ、ゲームが終了した場合はこの画面に戻ってきます。</p>
